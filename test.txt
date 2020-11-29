@@ -1,1 +1,8 @@
 Hello world
+
+git init
+git remote add origin https://github.com/wa3lily/coldev.git
+git commit -a -m 'first commit'
+git push https://github.com/wa3lily/coldev.git
+
+git pull https://github.com/wa3lily/coldev.git
